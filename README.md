@@ -44,7 +44,7 @@ This course provides a theory-centric introduction to Reinforcement Learning. St
 ## Schedule (assignments):
 | Week | Topic | Assignment |
 | ----|----|----- |
-| 1 (1/26) | Intro to Reinforcement Learning (Problem Set 1 Assigned) | Problem Set 1 OUT |
+| 1 (1/26) | Intro to Reinforcement Learning | Problem Set 1 OUT |
 | 2 (2/2) | OpenAI Gym and Basic Techniques | Problem Set 2 OUT |
 | 3 (2/9) | Markov Decision Processes | Problem Set 3 OUT |
 | 4 (2/16) | Monte Carlo Learning | Problem Set 4 OUT |
@@ -54,7 +54,7 @@ This course provides a theory-centric introduction to Reinforcement Learning. St
 | 8 (3/16) | Policy Gradient Methods | Problem Set 8 OUT |
 | BREAK (3/23) | No Class |
 | 9 (3/30) | Learning and Planning | Problem Set 9 OUT |
-| 10 (4/6) | Exploration and Expectation |  Problem Set 9 OUT |
+| 10 (4/6) | Exploration and Expectation |  Problem Set 10 OUT |
 | 11 (4/13) | Game Theory and Reinforcement Learning | Final Project OUT |
 | 12 (4/20) | Game Theory and Reinforcement Learning II | |
 | 13 (4/27) | Review | |
