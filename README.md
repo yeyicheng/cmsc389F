@@ -1,5 +1,4 @@
 # CMSC389R: Reinforcement Learning
-
 ![Banner](static/banner.jpg?)
 
 ## Description:
