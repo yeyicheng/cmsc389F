@@ -7,7 +7,7 @@ This course provides an overview of the key concepts and algorithms of Reinforce
 
 ## Course Details:
 - **Course:** CMSC389R
-- **Prerequisites:** Minimum grade of C- or better in CMSC250 or MATH310
+- **Prerequisites:** Minimum grade of C- or better in CMSC216 and CMSC250 or MATH310
 - **Credits:** 1
 - **Lecture Time:** TBA
 - **Location:** TBA
