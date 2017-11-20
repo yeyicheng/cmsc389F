@@ -40,7 +40,7 @@ This course provides a theory-centric introduction to Reinforcement Learning. St
 - Exploration and Expectation
 - Game Theory and Reinforcement Learning
 
-## Schedule (assignments):
+## Schedule:
 | Week | Topic | Assignment |
 | ----|----|----- |
 | 1 (1/26) | Intro to Reinforcement Learning | Problem Set 1 OUT |
@@ -60,9 +60,18 @@ This course provides a theory-centric introduction to Reinforcement Learning. St
 | 14 (5/05) | Final Presentations and Parting Words | |
 
 ## Grading: 
-- 70% - Problem Sets
-- 20% - Project 
-- 10% - Participation 
+Grades will be maintained on the CS Department <a href="https://grades.cs.umd.edu/">grades server</a>.
+
+You are responsible for all material discussed in lecture and posted on the class repository, including announcements, deadlines, policies, etc.
+
+Your final course grade will be determined according to the following percentages:
+
+| Percentage | Title | Description |
+| ---------- | -----|-------- |
+| 80% | Problem Sets  | Weekly, short problem sets that test key concepts covered in lecture. |
+| 20% | Project | Final project to demonstrate mastery of topics learned and apply knowledge to create a new AI from scratch. |
+
+Any request for reconsideration of any grading on coursework must be submitted within one week of when it is returned. No requests will be considered afterwards.
 
 ## Problem Sets
 Since the course will introduce students to new topics that many will not have previous exposure to, it is essential that students complete a weekly problem set to ensure they understand key concepts of each week’s lecture. Each problem set is designed to take 20 minutes on average to complete.
