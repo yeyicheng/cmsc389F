@@ -1,22 +1,32 @@
 # CMSC389R: Reinforcement Learning
 
-Credits: 1
+![Banner](static/banner.jpg)
 
 ## Description:
 This course provides an overview of the key concepts and algorithms of Reinforcement Learning, an area of artificial intelligence research responsible for recent achievements such as AlphaGo and autonomous driving. This course is focused on understanding the key concepts of Reinforcement Learning, including Markov Decision Processes, Planning, and Policy Gradient Methods. This course does not have a programming heavy workload. 
 
-## Prerequisites:
-- Minimum grade of C- or better in CMSC250 or MATH310
+## Course Details:
+- **Course:** CMSC389R
+- **Prerequisites:** Minimum grade of C- or better in CMSC250 or MATH310
+- **Credits:** 1
+- **Lecture Time:** TBA
+- **Location:** TBA
+- **Semester:** Spring 2018
+- **Textbook:** None
+- **Course Facilitators:** Zack Khan and Kevin Chen
+- **Faculty Advisor:** TBA
+- **Syllabus Last Updated:** November 20, 2017
 
-## Recommended:
+## Recommended Background:
 - Proficiency in Python (numpy)
-- Machine Learning (CMSC422)
-- Calculus and Linear Algebra (MATH141, MATH240)
-- Probability & Statistics (STAT400)
+- Knowledge of Basic Calculus (MATH140/MATH141)
+- Knowledge of Basic Linear Algebra (MATH240)
+- Knowledge of Basic Probability (STAT400)
+- Background in Machine Learning (CMSC422)
 
 ## Resources:
-- Sutton Book (http://ufal.mff.cuni.cz/~straka/courses/npfl114/2016/sutton-bookdraft2016sep.pdf)
-- Silver Course (http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+- Sutton Textbook (http://ufal.mff.cuni.cz/~straka/courses/npfl114/2016/sutton-bookdraft2016sep.pdf)
+- Silver UCL Course (http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
 ## Topics:
 - Introduction to Reinforcement Learning (Components of an RL system)
