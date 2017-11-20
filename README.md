@@ -19,12 +19,11 @@ This course provides an overview of the key concepts and algorithms of Reinforce
 
 ## Recommended Background:
 - Proficiency in Python (numpy)
+- Knowledge of Basic Probability (STAT400)
 - Knowledge of Basic Calculus (MATH140/MATH141)
 - Knowledge of Basic Linear Algebra (MATH240)
-- Knowledge of Basic Probability (STAT400)
-- Background in Machine Learning (CMSC422)
 
-## Resources:
+## Additional Resources:
 - Sutton Textbook (http://ufal.mff.cuni.cz/~straka/courses/npfl114/2016/sutton-bookdraft2016sep.pdf)
 - Silver UCL Course (http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
@@ -64,10 +63,10 @@ This course provides an overview of the key concepts and algorithms of Reinforce
 ## Grading: 
 - 70% - Problem Sets
 - 20% - Project 
-- 10% - Attendance 
+- 10% - Participation 
 
 ## Problem Sets
-Since the course will introduce students to new topics that many will not have previous exposure to, it is essential that students complete a weekly problem set to ensure they understand key concepts of each week’s lecture. 
+Since the course will introduce students to new topics that many will not have previous exposure to, it is essential that students complete a weekly problem set to ensure they understand key concepts of each week’s lecture. Each problem set is designed to take 20 minutes on average to complete.
 
 ## Projects
 We will be working on an in-class project to create an AI for a simple Pong game, and build upon this example throughout the class (until Week 13). Since we will be working on this project together in class, no grade will be assigned, but students are responsible for understanding the underlying concepts, which will be used when developing the final project. 
