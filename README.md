@@ -3,7 +3,7 @@
 ![Banner](static/banner.jpg)
 
 ## Description:
-This course provides an overview of the key concepts and algorithms of Reinforcement Learning, an area of artificial intelligence research responsible for recent achievements such as AlphaGo and autonomous driving. This course is focused on understanding the key concepts of Reinforcement Learning, including Markov Decision Processes, Planning, and Policy Gradient Methods. This course does not have a programming heavy workload. 
+This course provides a theory-centric introduction to Reinforcement Learning. Students will learn the key concepts and algorithms driving Reinforcement Learning, including Markov Decision Processes, Monte Carlo Learning, and Policy Gradient methods. The course will culminate in a final reinforcement-learning project built on OpenAI Gym that will be presented to the class.
 
 ## Course Details:
 - **Course:** CMSC389R
