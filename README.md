@@ -15,8 +15,8 @@ This course provides an overview of the key concepts and algorithms of Reinforce
 - Probability & Statistics (STAT400)
 
 ## Resources:
-Sutton Book
-Silver Course
+- Sutton Book (http://ufal.mff.cuni.cz/~straka/courses/npfl114/2016/sutton-bookdraft2016sep.pdf)
+- Silver Course (http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
 ## Topics:
 - Introduction to Reinforcement Learning (Components of an RL system)
