@@ -1,6 +1,6 @@
 # CMSC389R: Reinforcement Learning
 
-![Banner](static/banner.jpg)
+![Banner](static/banner.jpg?)
 
 ## Description:
 This course provides a theory-centric introduction to Reinforcement Learning. Students will learn the key concepts and algorithms driving Reinforcement Learning, including Markov Decision Processes, Monte Carlo Learning, and Policy Gradient methods. The course will culminate in a final reinforcement-learning project built on OpenAI Gym that will be presented to the class.
