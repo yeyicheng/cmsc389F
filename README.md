@@ -60,7 +60,7 @@ This course provides an overview of the key concepts and algorithms of Reinforce
 Since the course will introduce students to new topics that many will not have previous exposure to, it is essential that students complete a weekly problem set to ensure they understand key concepts of each week’s lecture. 
 
 ## Projects
-We will be working on an in-class project of the simple Pong game, and build upon this example throughout the class (until Week 13). Since we will be working on this project together in class, no grade will be assigned, but students are responsible for understanding the underlying concepts, which will be used when developing the final project. 
+We will be working on an in-class project to create an AI for a simple Pong game, and build upon this example throughout the class (until Week 13). Since we will be working on this project together in class, no grade will be assigned, but students are responsible for understanding the underlying concepts, which will be used when developing the final project. 
 
 The only project the students will code themselves is the final project, using OpenAI Gym. They can pick a game or simulation of their choosing, and we will approve based on feasibility and available resources. We will be holding office hours throughout the week(s) of the final project for assistance.
 
