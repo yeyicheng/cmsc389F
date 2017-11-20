@@ -33,26 +33,23 @@ This course provides an overview of the key concepts and algorithms of Reinforce
 - Game Theory and Reinforcement Learning
 
 ## Schedule (assignments):
-Before first day: complete pre-class survey 
-(1/26) - Intro to Reinforcement Learning (Problem Set 1 Assigned) 
-Intro to Machine Learning Concepts 
-What is Reinforcement Learning? What are its uses? 
-Components of a Reinforcement Learning System 
-(2/2) - OpenAI Gym and Basic Techniques
-How to set up an environment 
-(2/9) - Markov Decision Processes
-(2/16) - Monte Carlo Learning
-(2/23) - Temporal Difference Learning
-(3/2) - TD Lambda Learning
-(3/9) - Value Function Approximation
-(3/16) - Policy Gradient Methods
-(3/23) - No Class (Spring Break)
-(3/30) - Learning and Planning
-(4/6) - Exploration and Expectation
-(4/13) - Game Theory and Reinforcement Learning
-(4/20) - Game Theory and Reinforcement Learning II
-(4/27) - Review
-(5/05) - Final Presentations and Parting Words 
+| Week | Topic | Assignment |
+| ----|----|----- |
+| 1 (1/26) | Intro to Reinforcement Learning (Problem Set 1 Assigned) | Problem Set 1 OUT |
+| 2 (2/2) | OpenAI Gym and Basic Techniques | Problem Set 2 OUT |
+| 3 (2/9) | Markov Decision Processes | Problem Set 3 OUT |
+| 4 (2/16) | Monte Carlo Learning | Problem Set 4 OUT |
+| 5 (2/23) | Temporal Difference Learning | Problem Set 5 OUT |
+| 6 (3/2) | TD Lambda Learning | Problem Set 6 OUT |
+| 7 (3/9) | Value Function Approximation | Problem Set 7 OUT |
+| 8 (3/16) | Policy Gradient Methods | Problem Set 8 OUT |
+| BREAK (3/23) | No Class |
+| 9 (3/30) | Learning and Planning | Problem Set 9 OUT |
+| 10 (4/6) | Exploration and Expectation |  Problem Set 9 OUT |
+| 11 (4/13) | Game Theory and Reinforcement Learning | Final Project OUT |
+| 12 (4/20) | Game Theory and Reinforcement Learning II | |
+| 13 (4/27) | Review | |
+| 14 (5/05) | Final Presentations and Parting Words | |
 
 ## Grading: 
 - 70% - Problem Sets
