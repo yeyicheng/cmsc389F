@@ -43,21 +43,21 @@ This course provides a theory-centric introduction to Reinforcement Learning. St
 ## Schedule:
 | Week | Topic | Assignment |
 | ----|----|----- |
-| 1 (1/26) | Intro to Reinforcement Learning | Problem Set 1 OUT |
-| 2 (2/2) | OpenAI Gym and Basic Techniques | Problem Set 2 OUT |
-| 3 (2/9) | Markov Decision Processes | Problem Set 3 OUT |
-| 4 (2/16) | Monte Carlo Learning | Problem Set 4 OUT |
-| 5 (2/23) | Temporal Difference Learning | Problem Set 5 OUT |
-| 6 (3/2) | TD Lambda Learning | Problem Set 6 OUT |
-| 7 (3/9) | Value Function Approximation | Problem Set 7 OUT |
-| 8 (3/16) | Policy Gradient Methods | Problem Set 8 OUT |
+| 1 (1/26) | Intro to Reinforcement Learning | PSET 1 OUT |
+| 2 (2/2) | OpenAI Gym and Basic Techniques | PSET 2 OUT, PSET 1 DUE |
+| 3 (2/9) | Markov Decision Processes | PSET 3 OUT, PSET 2 DUE |
+| 4 (2/16) | Monte Carlo Learning | PSET 4 OUT, PSET 3 DUE |
+| 5 (2/23) | Temporal Difference Learning | PSET 5 OUT, PSET 4 DUE |
+| 6 (3/2) | TD Lambda Learning | PSET 6 OUT, PSET 5 DUE |
+| 7 (3/9) | Value Function Approximation | PSET 7 OUT, PSET 6 DUE |
+| 8 (3/16) | Policy Gradient Methods | PSET 8 OUT, PSET 7 DUE |
 | BREAK (3/23) | No Class |
-| 9 (3/30) | Learning and Planning | Problem Set 9 OUT |
-| 10 (4/6) | Exploration and Expectation |  Problem Set 10 OUT |
-| 11 (4/13) | Game Theory and Reinforcement Learning | Final Project OUT |
+| 9 (3/30) | Learning and Planning | PSET 9 OUT, PSET 8 DUE |
+| 10 (4/6) | Exploration and Expectation | PSET 10 OUT, PSET 9 DUE |
+| 11 (4/13) | Game Theory and Reinforcement Learning | Final Project OUT, PSET 10 DUE |
 | 12 (4/20) | Game Theory and Reinforcement Learning II | |
 | 13 (4/27) | Review | |
-| 14 (5/05) | Final Presentations and Parting Words | |
+| 14 (5/05) | Final Presentations and Parting Words | Final Project DUE |
 
 ## Grading: 
 Grades will be maintained on the CS Department <a href="https://grades.cs.umd.edu/">grades server</a>.
