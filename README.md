@@ -23,8 +23,8 @@ This course provides a theory-centric introduction to Reinforcement Learning. St
 - Knowledge of Basic Calculus (MATH241)
 
 ## Additional Resources:
-- Sutton Textbook (http://ufal.mff.cuni.cz/~straka/courses/npfl114/2016/sutton-bookdraft2016sep.pdf)
-- Silver UCL Course (http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+- [Reinforcement Learning, Sutton & Barto](https://mitpress.mit.edu/books/reinforcement-learning)
+- [David Silver's Course](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
 ## Topics:
 - Introduction to Reinforcement Learning (Components of an RL system)
