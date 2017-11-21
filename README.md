@@ -18,9 +18,9 @@ This course provides a theory-centric introduction to Reinforcement Learning. St
 
 ## Recommended Background:
 - Proficiency in Python (numpy)
-- Knowledge of Basic Probability (STAT400)
-- Knowledge of Basic Calculus (MATH140/MATH141)
+- Knowledge of Basic Probability Theory (STAT400)
 - Knowledge of Basic Linear Algebra (MATH240)
+- Knowledge of Basic Calculus (MATH241)
 
 ## Additional Resources:
 - Sutton Textbook (http://ufal.mff.cuni.cz/~straka/courses/npfl114/2016/sutton-bookdraft2016sep.pdf)
@@ -89,7 +89,7 @@ Note that academic dishonesty includes not only cheating, fabrication, and plagi
 
 It is very important for you to be aware of the consequences of cheating, fabrication, facilitation, and plagiarism. For more information on the Code of Academic Integrity or the Student Honor Council, please visit http://www.shc.umd.edu.
 
-## TAs:
+## Facilitators:
 - Zack Khan - zkhan123@umd.edu 
 - Kevin Chen- kev@umd.edu
 
