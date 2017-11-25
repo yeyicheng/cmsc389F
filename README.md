@@ -1,5 +1,5 @@
 # CMSC389X: Reinforcement Learning
-![banner](https://user-images.githubusercontent.com/13123651/33057348-721373ec-ce58-11e7-9e32-cfd371d7e86e.jpg)
+![reinforcement learning](https://user-images.githubusercontent.com/13123651/33227208-f7fd064c-d16b-11e7-8c48-35f30c445ce6.png)
 
 ## Description:
 This course provides a theory-centric introduction to Reinforcement Learning. Students will learn the key concepts and algorithms driving Reinforcement Learning, including Markov Decision Processes, Monte Carlo Learning, and Policy Gradient methods. The course will culminate in a final reinforcement-learning project built on OpenAI Gym that will be presented to the class.
