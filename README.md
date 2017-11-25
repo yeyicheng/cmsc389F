@@ -1,4 +1,4 @@
-# CMSC389R: Reinforcement Learning
+# CMSC389X: Reinforcement Learning
 ![banner](https://user-images.githubusercontent.com/13123651/33057348-721373ec-ce58-11e7-9e32-cfd371d7e86e.jpg)
 
 ## Description:
