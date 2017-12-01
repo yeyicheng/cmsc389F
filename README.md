@@ -68,8 +68,9 @@ Your final course grade will be determined according to the following percentage
 
 | Percentage | Title | Description |
 | ---------- | -----|-------- |
-| 80% | Problem Sets  | Weekly, short problem sets that test key concepts covered in lecture. |
-| 20% | Project | Final project to demonstrate mastery of topics learned and apply knowledge to create a reinforcement learning project in a new OpenAI environment. |
+| 60% | Problem Sets  | Weekly, short problem sets that test key concepts covered in lecture. |
+| 20% | Midterm | Takehome midterm to demonstrate mastery of topics learned. |
+| 20% | Project | Final project to apply knowledge to create a new reinforcement learning project in an OpenAI environment. |
 
 Any request for reconsideration of any grading on coursework must be submitted within one week of when it is returned. No requests will be considered afterwards.
 
