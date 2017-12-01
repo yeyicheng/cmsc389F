@@ -75,12 +75,12 @@ Your final course grade will be determined according to the following percentage
 Any request for reconsideration of any grading on coursework must be submitted within one week of when it is returned. No requests will be considered afterwards.
 
 ## Problem Sets:
-Since the course will introduce students to new topics that many will not have previous exposure to, it is essential that students complete a weekly problem set to ensure they understand key concepts of each week’s lecture. Each problem set is designed to take 20 minutes on average to complete.
+Since the course will introduce students to new topics that many will not have previous exposure to, it is essential that students complete a (very short) weekly problem set to ensure they understand key concepts of each week’s lecture. Each problem set is designed to take at most 20 minutes to complete.
 
 ## Projects:
 We will be working on an in-class project to create an AI for a simple Pong game, and build upon this example throughout the class (until Week 13). Since we will be working on this project together in class, no grade will be assigned, but students are responsible for understanding the underlying concepts, which will be used when developing the final project. 
 
-The only project the students will code themselves is the final project, using OpenAI Gym. They can pick a game or simulation of their choosing, and we will approve based on feasibility and available resources. We will be holding office hours throughout the week(s) of the final project for assistance.
+The only coding project the students will be graded on is the final project, using OpenAI Gym. They can pick a game or simulation of their choosing, and we will approve based on feasibility and available resources. We will be holding office hours throughout the week(s) of the final project for assistance.
 
 ## Communication:
 We will interact with students in-person during office hours and online via Piazza
