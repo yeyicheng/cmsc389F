@@ -14,50 +14,35 @@ This course provides a theory-centric introduction to Reinforcement Learning. St
 - **Textbook:** None
 - **Course Facilitators:** Zack Khan and Kevin Chen
 - **Faculty Advisor:** TBA
-- **Syllabus Last Updated:** November 20, 2017
+- **Syllabus Last Updated:** January 26, 2017
 
 ## Recommended Background:
 - Proficiency in Python (numpy)
-- Knowledge of Basic Probability Theory (STAT400)
-- Knowledge of Basic Linear Algebra (MATH240)
-- Knowledge of Basic Calculus (MATH241)
+- Knowledge of Basic Probability Theory
+- Knowledge of Basic Linear Algebra
+- Knowledge of Basic Calculus
 
 ## Additional Resources:
 - [Reinforcement Learning, Sutton & Barto](https://mitpress.mit.edu/books/reinforcement-learning)
-- [David Silver's Course](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
-
-## Topics:
-- Introduction to Reinforcement Learning (Components of an RL system)
-- OpenAI Gym and Basic Techniques
-- Markov Decision Processes
-- Dynamic Programming
-- Monte Carlo Learning
-- Temporal Difference Learning
-- TD Lambda Learning
-- Value Function Approximation
-- Policy Gradient Methods
-- Learning and Planning
-- Exploration and Expectation
-- Game Theory and Reinforcement Learning
 
 ## Schedule:
 | Week | Topic | Assignment |
-| ----|----|----- |
-| 1 (1/26) | Intro to Reinforcement Learning | P1 OUT |
-| 2 (2/2) | OpenAI Gym & Basic Techniques | P2 OUT, P1 DUE |
-| 3 (2/9) | Markov Decision Processes | P3 OUT, P2 DUE |
-| 4 (2/16) | Monte Carlo Learning | P4 OUT, P3 DUE |
-| 5 (2/23) | Temporal Difference Learning | P5 OUT, P4 DUE |
-| 6 (3/2) | TD Lambda Learning | P6 OUT, P5 DUE |
-| 7 (3/9) | Value Function Approximation | P7 OUT, P6 DUE |
-| 8 (3/16) | Policy Gradient Methods | P8 OUT, P7 DUE |
-| BREAK (3/23) | No Class |
-| 9 (3/30) | Learning & Planning | P9 OUT, P8 DUE |
-| 10 (4/6) | Exploration & Expectation | P10 OUT, P9 DUE |
-| 11 (4/13) | Game Theory & RL | Final Project OUT, P10 DUE |
-| 12 (4/20) | Game Theory & RL II | |
-| 13 (4/27) | Review | |
-| 14 (5/05) | Final Presentations | Final Project DUE |
+| ----|----|----|
+| 1 (1/26) | Lecture 1: Introduction to Reinforcement Learning | |
+| 2 (2/2) | Lecture 2: Reinforcement Learning Framework | |
+| 3 (2/9) | Lecture 3: Markov Decision Processes | |
+| 4 (2/16) | Lecture 4: OpenAI Gym and Universe | |
+| 5 (2/23) | Lecture 5: Bellman Expectation Equations | |
+| 6 (3/2) | Lecture 6: Optimal Policy through Policy and Value Iteration | |
+| 7 (3/9) | Lecture 7: Policy Iteration and Value Iteration in Gridworld | |
+| 8 (3/16) | Lecture 8: Model-Free Methods (Monte Carlo) | Midterm Out |
+| BREAK (3/23) | No Class | |
+| 9 (3/30) | Lecture 9: Monte Carlo Prediction and Control | Midterm Due |
+| 10 (4/6) | Lecture 10: Temporal Difference Learning | Project Out |
+| 11 (4/13) | Lecture 11: SARSA and Q-Learning | |
+| 12 (4/20) | Lecture 12: Value Function Approximation | |
+| 13 (4/27) | Lecture 13: Linear Approximation in Mountain Car | |
+| 14 (5/05) | Lecture 14: Deep Reinforcement Learning | Project Due |
 
 ## Grading: 
 Grades will be maintained on the CS Department <a href="https://grades.cs.umd.edu/">grades server</a>.
@@ -68,19 +53,17 @@ Your final course grade will be determined according to the following percentage
 
 | Percentage | Title | Description |
 | ---------- | -----|-------- |
-| 60% | Problem Sets  | Weekly, short problem sets that test key concepts covered in lecture. |
+| 50% | Problem Sets  | Weekly, short problem sets that test key concepts covered in lecture. |
 | 20% | Midterm | Take-home midterm to demonstrate mastery of topics learned. |
-| 20% | Project | Final project to apply knowledge to create a new reinforcement learning project in an OpenAI environment. |
+| 30% | Project | Final project to apply knowledge to create a new reinforcement learning project in an OpenAI environment. |
 
 Any request for reconsideration of any grading on coursework must be submitted within one week of when it is returned. No requests will be considered afterwards.
 
 ## Problem Sets:
-Since the course will introduce students to new topics that many will not have previous exposure to, it is essential that students complete a (very short) weekly problem set to ensure they understand key concepts of each week’s lecture. Each problem set is designed to take at most 20 minutes to complete.
+Since the course will introduce students to new topics that many will not have previous exposure to, it is essential that students complete a weekly problem set to ensure they understand key concepts of each week’s lecture.
 
 ## Projects:
-We will be working on an in-class project to create an AI for a simple Pong game, and build upon this example throughout the class (until Week 13). Since we will be working on this project together in class, no grade will be assigned, but students are responsible for understanding the underlying concepts, which will be used when developing the final project. 
-
-The only coding project the students will be graded on is the final project, using OpenAI Gym. They can pick a game or simulation of their choosing, and we will approve based on feasibility and available resources. We will be holding office hours throughout the week(s) of the final project for assistance.
+For the final project, students will write a 3-6 page paper on a Reinforcement Learning topic of their choice, or on a agent that they design. For the latter option,they can pick a game or simulation of their choosing, and we will approve based on feasibility and available resources. We will be holding office hours throughout the week(s) of the final project for assistance. More details will be made available later.
 
 ## Communication:
 We will interact with students in-person during office hours and online via Piazza
