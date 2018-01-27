@@ -5,16 +5,16 @@
 This course provides a theory-centric introduction to Reinforcement Learning. Students will learn the key concepts and algorithms driving Reinforcement Learning, including Markov Decision Processes, Monte Carlo Learning, and Policy Gradient methods. The course will culminate in a final reinforcement-learning project built on OpenAI Gym that will be presented to the class.
 
 ## Course Details:
-- **Course:** CMSC389R
+- **Course:** CMSC389F
 - **Prerequisites:** Minimum grade of C- or better in CMSC216 and CMSC250 or MATH310
 - **Credits:** 1
-- **Lecture Time:** TBA
-- **Location:** TBA
+- **Lecture Time:** 12:00 - 12:50 PM
+- **Location:** CSIC 3118
 - **Semester:** Spring 2018
 - **Textbook:** None
 - **Course Facilitators:** Zack Khan and Kevin Chen
-- **Faculty Advisor:** TBA
-- **Syllabus Last Updated:** January 26, 2017
+- **Faculty Advisor:** James Reggia
+- **Syllabus Last Updated:** January 27, 2018
 
 ## Recommended Background:
 - Proficiency in Python (numpy)
